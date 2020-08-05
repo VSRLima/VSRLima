@@ -21,5 +21,5 @@ Sou um desenvolvedor com uma imensa curiosidade, que não se acomoda e sempre pr
 💻 BootCamp Next Level Week <br>
 💻 Curso em Vídeo <br>
 ⚡ Técnico em Eletrotécnica - Senai/BA <br>
-⚡ Profissionalizante em Mecatrônica Industrial - Senai/BA
+⚡ Profissionalizante em Mecatrônica Industrial - Senai/BA <br>
 Entre em contato comigo: [![Gmail Badge](https://img.shields.io/badge/-vinisrlima@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinisrlima@gmail.com)](mailto:vinisrlima@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-ViniciusReis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-de-souza-reis-lima-745334185/)](https://www.linkedin.com/in/vinicius-de-souza-reis-lima-745334185/)
