@@ -7,7 +7,8 @@ Sou um desenvolvedor com uma imensa curiosidade, que não se acomoda e sempre pr
 🛡️ HTML5 - Intermediário <br>
 :scissors: CSS - Intermediário <br>
 📝 JavaScript - Básico <br>
-📑 Laravel - Intermediário
+📑 Laravel - Intermediário <br>
+🛡️ Angular - Intermediário
 
 ## 🗣️ Idiomas
 🇧🇷 Português - Fluente/Nativo <br>
