@@ -7,7 +7,7 @@ Sou um desenvolvedor com uma imensa curiosidade, que não se acomoda e sempre pr
 📝 JavaScript - Básico <br>
 🛡️ Angular - Intermediário <br>
 :smiley_cat: GitHub - Básico <br>
-⚛️ Typescript - Básico.
+⚛️ Typescript - Intermediário.
 
 ## 🗣️ Idiomas
 🇧🇷 Português - Fluente/Nativo <br>
