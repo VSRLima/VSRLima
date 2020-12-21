@@ -8,12 +8,15 @@ Sou um desenvolvedor com uma imensa curiosidade, que não se acomoda e sempre pr
 :scissors: CSS - Intermediário <br>
 📝 JavaScript - Básico <br>
 📑 Laravel - Básico <br>
-🛡️ Angular - Básico
+🛡️ Angular - Intermediário.
 
 ## 🗣️ Idiomas
 🇧🇷 Português - Fluente/Nativo <br>
 🇪🇸 Espanhol - Básico - UNEB <br>
 🇺🇸 Inglês - Avançado - UNEB
+
+## Experiências
+💻 Help Desk - VX Case - Trabalhando Atualmente.
 
 ## 📖 Educação
 💻 Free Code Camp<br>
