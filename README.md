@@ -14,7 +14,7 @@ Sou um desenvolvedor com uma imensa curiosidade, que não se acomoda e sempre pr
 ## 🗣️ Idiomas
 🇧🇷 Português - Fluente/Nativo; <br>
 🇪🇸 Espanhol - Básico - UNEB; <br>
-🇺🇸 Inglês - Avançado - UNEB.
+🇺🇸 Inglês - Fluente - UNEB.
 
 ## Experiências
 💻 Analista de suporte I - VX Case - Trabalhando Atualmente.
