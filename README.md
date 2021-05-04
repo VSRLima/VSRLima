@@ -4,7 +4,7 @@ Sou um desenvolvedor com uma imensa curiosidade, que não se acomoda e sempre pr
 ## 📚 Competências
 🛡️ Angular - Intermediário; <br>
 :scissors: CSS - Intermediário; <br>
-:smiley_cat: Git - Básico; <br>
+:smiley_cat: Git - Intermediário; <br>
 🛡️ HTML - Intermediário; <br>
 📝 JavaScript - Intermediário; <br>
 ❄ React - Básico <br>
