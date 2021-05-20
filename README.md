@@ -17,7 +17,8 @@ Sou um desenvolvedor com uma imensa curiosidade, que não se acomoda e sempre pr
 🇺🇸 Inglês - Fluente - UNEB.
 
 ## Experiências
-💻 Analista de suporte I - VX Case - Trabalhando Atualmente.
+💻 Analista de suporte I - VX Case - 7 Meses. (Novembro 2020 - Maio 2021)
+💻 Desenvolvedor Full Stack - Sotero Tech - Trabalhando Atualmente
 
 ## 📖 Educação
 💻 Free Code Camp;<br>
