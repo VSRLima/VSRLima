@@ -10,6 +10,10 @@ Sou um desenvolvedor com uma imensa curiosidade, que não se acomoda e sempre pr
 ❄ React - Básico <br>
 :scissors: Sass - Intermediário <br>
 ⚛️ Typescript - Intermediário; <br>
+🥅 .NET - Intermediário; <br>
+🗃️ SQL Server - Intermediário; <br>
+🥅 Entity Framework - Intermediário; <br>
+♯ C# - Intermédiario;
 
 ## 🗣️ Idiomas
 🇧🇷 Português - Fluente/Nativo; <br>
@@ -21,9 +25,6 @@ Sou um desenvolvedor com uma imensa curiosidade, que não se acomoda e sempre pr
 💻 Desenvolvedor Full Stack - Sotero Tech - Trabalhando Atualmente
 
 ## 📖 Educação
-💻 Free Code Camp;<br>
-💻 BootCamp Next Level Week; <br>
-💻 Curso em Vídeo; <br>
-⚡ Técnico em Eletrotécnica - Senai/BA; <br>
-⚡ Profissionalizante em Mecatrônica Industrial - Senai/BA; <br>
+💻 Sistemas de Informação | UNEB
+
 Entre em contato comigo: [![Gmail Badge](https://img.shields.io/badge/-vinisrlima@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinisrlima@gmail.com)](mailto:vinisrlima@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-ViniciusReis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-de-souza-reis-lima-745334185/)](https://www.linkedin.com/in/VSRLima/)
