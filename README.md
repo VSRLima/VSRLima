@@ -22,7 +22,7 @@ Sou um desenvolvedor com uma imensa curiosidade, que não se acomoda e sempre pr
 
 ## Experiências
 💻 Analista de suporte I - VX Case - 7 Meses. (Novembro 2020 - Maio 2021) <br>
-💻 Desenvolvedor Full Stack - Sotero Tech - Abril 2022 <br>
+💻 Desenvolvedor Full Stack - Sotero Tech - 1 Ano (Maio 2021 - Abril 2022) <br>
 💻 Desenvolvedor Full Stack - eNecad- Atualmente <br>
 
 ## 📖 Educação
