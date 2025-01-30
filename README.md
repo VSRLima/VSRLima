@@ -14,6 +14,7 @@ Across all these experiences, I’ve developed a passion for creating innovative
 Thank you for taking the time to learn more about my professional journey. I’m excited about the future and the opportunity to contribute my skills to your organization’s success.
 
 I look forward to connecting with you and exploring how we can achieve great things together.
+
 ## 📚 Skills
 🛡️ Angular <br>
 :scissors: CSS  <br>
@@ -30,16 +31,16 @@ I look forward to connecting with you and exploring how we can achieve great thi
 🛋️ CouchDB;
 
 ## 🗣️ Languages
-🇧🇷 Português - Native; <br>
-🇺🇸 Inglês - Fluent.
+🇧🇷 Portuguese - Native; <br>
+🇺🇸 English - Fluent.
 
 ## Experiences
-💻 Desenvolvedor Full Stack - RTB House - Atualmente <br>
-💻 Desenvolvedor Full Stack - eNecad - 4 meses (Abril 2022 - Julho 2022) <br>
-💻 Desenvolvedor Full Stack - Sotero Tech - 1 Ano (Maio 2021 - Abril 2022) <br>
-💻 Analista de suporte I - VX Case - 7 Meses. (Novembro 2020 - Maio 2021) <br>
+💻 Full Stack Developer - RTB House - Atualmente <br>
+💻 Full Stack Developer - eNecad - 4 months (April 2022 - July 2022) <br>
+💻 Full Stack Developer - Sotero Tech - 1 Ano (May 2021 - April 2022) <br>
+💻 Support Analyst I - VX Case - 7 Meses. (November 2020 - May 2021) <br>
 
 ## 📖 Educação
-💻 Sistemas de Informação | UNEB
+💻 Information Analyses | UNEB
 
-Entre em contato comigo: [![Gmail Badge](https://img.shields.io/badge/-vinisrlima@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinisrlima@gmail.com)](mailto:vinisrlima@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-ViniciusReis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-de-souza-reis-lima-745334185/)](https://www.linkedin.com/in/VSRLima/)
+Follow me: [![Gmail Badge](https://img.shields.io/badge/-vinisrlima@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinisrlima@gmail.com)](mailto:vinisrlima@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-ViniciusReis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-de-souza-reis-lima-745334185/)](https://www.linkedin.com/in/VSRLima/)
